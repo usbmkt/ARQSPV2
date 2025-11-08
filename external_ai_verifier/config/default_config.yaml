@@ -1,0 +1,113 @@
+# ARQV30 Enhanced v3.0 - External AI Verifier Configuration
+# Default configuration for the independent AI verification module
+
+# Confidence Thresholds - CORRIGIDO para aprovação mais balanceada
+thresholds:
+  approval: 0.45  # Reduzido de 0.75 para 0.45 - mais permissivo
+  rejection: 0.25  # Reduzido de 0.35 para 0.25 - menos restritivo
+  high_confidence: 0.75  # Reduzido de 0.85 para 0.75
+  low_confidence: 0.35  # Reduzido de 0.5 para 0.35
+  sentiment_neutral: 0.1
+  bias_high_risk: 0.8  # Aumentado de 0.7 para 0.8 - menos sensível
+  llm_minimum: 0.4  # Reduzido de 0.6 para 0.4
+
+# Sentiment Analysis Configuration  
+sentiment_analysis:
+  enabled: true
+  use_vader: true
+  use_textblob: true
+  polarity_weights:
+    positive: 1.1
+    negative: 0.8
+    neutral: 1.0
+  
+# Bias & Disinformation Detection
+bias_detection:
+  enabled: true
+  bias_keywords:
+    - "sempre"
+    - "nunca" 
+    - "todos sabem"
+    - "é óbvio"
+    - "sem dúvida"
+    - "claramente"
+  disinformation_patterns:
+    - "estudos comprovam"
+    - "especialistas dizem"
+    - "pesquisas mostram"
+    - "é cientificamente provado"
+  rhetoric_devices:
+    - "apelo ao medo"
+    - "falácia ad hominem"
+    - "generalização"
+    - "cherry picking"
+
+# LLM Reasoning Service
+llm_reasoning:
+  enabled: true
+  provider: "gemini"  # "gemini", "openai", "groq"
+  model: "gemini-2.0-flash-exp"
+  max_tokens: 4096
+  temperature: 0.7
+  confidence_threshold: 0.4  # Reduzido de 0.6 para 0.4
+  use_for_ambiguous_cases: true
+  ambiguous_range:
+    min: 0.3  # Reduzido de 0.4 para 0.3
+    max: 0.7  # Reduzido de 0.75 para 0.7
+  
+  # NOVO: Configuração de fallback para modelo local
+  local_model_fallback:
+    enabled: true
+    use_when_api_fails: true
+    confidence_boost: 0.1  # Adiciona 0.1 à confiança quando usa modelo local
+    default_approval_bias: 0.6  # Tendência de aprovação do modelo local
+
+# Rule Engine Configuration - CORRIGIDO para ser menos restritivo
+rules:
+  - name: "low_confidence_rejection"
+    condition: "overall_confidence < 0.20"  # Reduzido de 0.35 para 0.20
+    action:
+      status: "rejected"
+      reason: "Confidence muito baixa"
+      confidence_adjustment: -0.1  # Reduzido de -0.2 para -0.1
+      
+  - name: "high_risk_bias_rejection"
+    condition: "overall_risk >= 0.85"  # Aumentado de 0.7 para 0.85
+    action:
+      status: "rejected"
+      reason: "Alto risco de viés/desinformação detectado"
+      confidence_adjustment: -0.2  # Reduzido de -0.3 para -0.2
+      
+  - name: "high_confidence_approval"
+    condition: "overall_confidence >= 0.75"  # Reduzido de 0.85 para 0.75
+    action:
+      status: "approved"
+      reason: "Alta confiança"
+      confidence_adjustment: 0.0
+      
+  - name: "moderate_confidence_approval"  # NOVA REGRA para aprovação moderada
+    condition: "overall_confidence >= 0.45 and overall_risk < 0.6"
+    action:
+      status: "approved"
+      reason: "Confiança moderada com baixo risco"
+      confidence_adjustment: 0.0
+
+# Contextual Analysis
+contextual_analysis:
+  enabled: true
+  check_consistency: true
+  analyze_source_reliability: true
+  verify_temporal_coherence: true
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "ai_verifier.log"
+
+# Performance Settings
+performance:
+  batch_size: 10
+  max_processing_time: 300  # seconds
+  parallel_processing: true
+  cache_enabled: true

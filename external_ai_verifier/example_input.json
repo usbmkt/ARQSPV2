@@ -1,0 +1,435 @@
+
+{
+  "items": [
+    {
+      "id": "news_001",
+      "content": "Segundo pesquisa realizada pela Universidade Federal de São Paulo (UNIFESP), o consumo regular de chá verde pode reduzir em até 23% o risco de doenças cardiovasculares. O estudo acompanhou 1.200 voluntários durante 18 meses e foi publicado no Journal of Nutritional Health em março de 2025. Os pesquisadores analisaram biomarcadores específicos e observaram melhoria significativa nos níveis de colesterol HDL e redução da pressão arterial sistólica.",
+      "title": "Estudo da UNIFESP revela benefícios do chá verde para o coração",
+      "source": "portal.unifesp.br",
+      "author": "Dr. Maria Helena Santos",
+      "timestamp": "2025-03-15T09:30:00Z",
+      "url": "https://portal.unifesp.br/noticias/estudo-cha-verde-cardiovascular",
+      "category": "saúde"
+    },
+    {
+      "id": "social_001", 
+      "content": "URGENTE!!! Todos os médicos estão escondendo isso de você! Este método REVOLUCIONÁRIO elimina TODA dor nas costas em apenas 7 dias! Clique AGORA antes que removam este vídeo! Link nos comentários 👇👇👇 #DolorNasCostas #CuraMilagrosa #SegredoMedico",
+      "title": "MÉTODO SECRETO que os médicos ODEIAM",
+      "source": "facebook.com",
+      "author": "Cura Natural Brasil",
+      "timestamp": "2025-09-20T14:22:00Z",
+      "url": "https://facebook.com/curanatural/posts/123456",
+      "category": "saúde",
+      "engagement": {
+        "likes": 15420,
+        "shares": 8934,
+        "comments": 2156
+      }
+    },
+    {
+      "id": "article_001",
+      "content": "A inflação no Brasil atingiu 4.2% em agosto de 2025, segundo dados divulgados pelo IBGE nesta terça-feira. O resultado ficou dentro das expectativas do mercado financeiro, que projetava alta entre 4.0% e 4.5%. Os principais vilões foram os combustíveis (alta de 8.1%) e alimentos (3.8%). O Banco Central deve manter a taxa Selic estável na próxima reunião do Copom, prevista para 18 de setembro.",
+      "title": "Inflação de agosto fica em 4.2%, dentro das expectativas",
+      "source": "valor.globo.com",
+      "author": "Rafael Oliveira",
+      "timestamp": "2025-09-10T16:45:00Z",
+      "url": "https://valor.globo.com/brasil/noticia/inflacao-agosto-2025.ghtml",
+      "category": "economia"
+    },
+    {
+      "id": "conspiracy_001",
+      "content": "É ÓBVIO que o governo mundial está controlando o clima! TODOS os cientistas sabem disso mas NINGUÉM tem coragem de falar a verdade! Eles estão usando tecnologia secreta para criar furacões e terremotos. É IMPOSSÍVEL que tantos desastres naturais aconteçam por coincidência. SEMPRE que há eleições importantes, aparece um furacão! Pesquisem por HAARP - eles estão manipulando nossa atmosfera há décadas!",
+      "title": "A VERDADE sobre controle climático que ELES escondem",
+      "source": "verdadeoculta.blog",
+      "author": "Despertador da Verdade",
+      "timestamp": "2025-09-21T03:33:00Z",
+      "category": "conspiração"
+    },
+    {
+      "id": "scientific_001",
+      "content": "Pesquisadores do Instituto Nacional de Pesquisas Espaciais (INPE) identificaram uma nova espécie de planta na Amazônia que demonstra resistência excepcional à seca. A Heliconia amazonensis, descoberta durante expedição de 6 meses na região do Alto Solimões, possui características adaptativas únicas que podem contribuir para estudos sobre mudanças climáticas. Os resultados foram publicados na revista Nature Plants com revisão por pares.",
+      "title": "Nova espécie amazônica resistente à seca é descoberta pelo INPE",
+      "source": "inpe.br",
+      "author": "Equipe de Botânica INPE",
+      "timestamp": "2025-09-12T08:15:00Z",
+      "url": "https://inpe.br/noticias/nova-especie-amazonica-resistente-seca",
+      "category": "ciência"
+    },
+    {
+      "id": "fake_miracle_001",
+      "content": "🚨 DESCOBERTA CHOCANTE! 🚨 Médico de 87 anos revela segredo que a indústria farmacêutica ODEIA! Com apenas 1 ingrediente da sua cozinha, você pode CURAR diabetes, hipertensão e câncer em 30 dias! Mais de 50.000 pessoas já foram curadas! Assista antes que retirem do ar! Comentem QUERO para receber o link GRATUITO! 👇🔥",
+      "title": "INGREDIENTE MILAGROSO cura TUDO em 30 dias!",
+      "source": "saude-alternativa-milagre.net",
+      "author": "Dr. Miracle Silva",
+      "timestamp": "2025-09-22T19:45:00Z",
+      "category": "saúde-alternativa",
+      "engagement": {
+        "likes": 34567,
+        "shares": 23445,
+        "comments": 8903
+      }
+    },
+    {
+      "id": "review_tech_001",
+      "content": "Testei o novo iPhone 16 Pro durante duas semanas intensas de uso profissional. A bateria realmente dura o dia todo mesmo com uso pesado (gravação 4K, edição de fotos, jogos). A câmera noturna teve uma melhoria significativa de 35% comparada ao modelo anterior, especialmente em ambientes com pouca luz. O preço de R$ 9.999 é elevado, mas a qualidade de construção e performance justificam o investimento para criadores de conteúdo.",
+      "title": "Review: iPhone 16 Pro após 2 semanas de uso intenso",
+      "source": "tecmundo.com.br",
+      "author": "Ana Paula Tech",
+      "timestamp": "2025-09-22T13:20:00Z",
+      "url": "https://tecmundo.com.br/review-iphone-16-pro",
+      "category": "tecnologia"
+    },
+    {
+      "id": "political_bias_001",
+      "content": "É inacreditável como o governo atual conseguiu destruir COMPLETAMENTE nossa economia em apenas dois anos. TODAS as promessas foram quebradas e NENHUM político presta. É óbvio que estamos caminhando para uma catástrofe total e todos sabem disso, mas ninguém tem coragem de admitir a realidade. O país NUNCA esteve tão mal e SEMPRE que eles falam, é mentira!",
+      "title": "Opinião: O desastre econômico que vivemos",
+      "source": "opiniao-livre.blog",
+      "author": "Cidadão Revoltado",
+      "timestamp": "2025-09-21T19:45:00Z",
+      "category": "política"
+    },
+    {
+      "id": "educational_001",
+      "content": "A fotossíntese é um processo bioquímico fundamental realizado pelas plantas, algas e algumas bactérias. Durante este processo, a energia luminosa é convertida em energia química, permitindo a produção de glicose a partir de dióxido de carbono e água. A equação simplificada é: 6CO₂ + 6H₂O + energia luminosa → C₆H₁₂O₆ + 6O₂. Este processo é essencial para a vida na Terra, pois produz o oxigênio que respiramos e forma a base da cadeia alimentar.",
+      "title": "Entendendo a fotossíntese: processo fundamental da vida",
+      "source": "educacao.usp.br",
+      "author": "Prof. Dr. Carlos Botânico",
+      "timestamp": "2025-09-14T10:00:00Z",
+      "url": "https://educacao.usp.br/fotossintese-explicada",
+      "category": "educação"
+    },
+    {
+      "id": "crypto_scam_001",
+      "content": "🚀 BITCOIN VAI EXPLODIR AMANHÃ! 🚀 Informação privilegiada de DENTRO da Binance! Compre AGORA ou perca a chance da sua vida! Eu transformei R$ 1.000 em R$ 1.000.000 em apenas 3 meses seguindo essas dicas SECRETAS! Grupo VIP por apenas R$ 97 - ÚLTIMAS VAGAS! Entre no meu Telegram @criptomilionario HOJE!",
+      "title": "BITCOIN EXPLODE AMANHÃ - Informação Privilegiada!",
+      "source": "cripto-milionario.site",
+      "author": "Crypto Master 2025",
+      "timestamp": "2025-09-23T21:30:00Z",
+      "category": "investimentos"
+    },
+    {
+      "id": "academic_paper_001",
+      "content": "O presente estudo analisou os efeitos da meditação mindfulness na redução dos níveis de cortisol em 240 participantes ao longo de 12 semanas. Utilizando metodologia randomizada controlada por placebo, observamos redução significativa de 27% nos níveis de cortisol salivar no grupo experimental (p<0.001). Os resultados sugerem que práticas contemplativas podem ser eficazes como intervenção complementar no manejo do estresse crônico. Limitações incluem tamanho amostral e necessidade de estudos longitudinais.",
+      "title": "Efeitos da meditação mindfulness nos níveis de cortisol: estudo randomizado",
+      "source": "journal.pucsp.br",
+      "author": "Dra. Fernanda Mindfulness et al.",
+      "timestamp": "2025-08-30T14:00:00Z",
+      "url": "https://journal.pucsp.br/mindfulness-cortisol-2025",
+      "category": "pesquisa-academica"
+    },
+    {
+      "id": "sports_news_001",
+      "content": "O Flamengo venceu o Palmeiras por 3x1 no Maracanã em partida válida pela 27ª rodada do Campeonato Brasileiro. Os gols foram marcados por Gabigol (15'), Bruno Henrique (32') e Pedro (78'), enquanto Rony descontou para o Palmeiras aos 85'. Com o resultado, o Mengão assume a liderança do campeonato com 58 pontos, três à frente do segundo colocado. A próxima partida será contra o Internacional, fora de casa.",
+      "title": "Flamengo vence Palmeiras e assume liderança do Brasileirão",
+      "source": "globoesporte.globo.com",
+      "author": "Redação GloboEsporte",
+      "timestamp": "2025-09-21T22:15:00Z",
+      "url": "https://globoesporte.globo.com/flamengo-palmeiras-brasileirao",
+      "category": "esportes"
+    },
+    {
+      "id": "diet_spam_001",
+      "content": "⚡ PERCA 15KG EM 21 DIAS! ⚡ Método japonês PROIBIDO no Brasil! Nutricionistas ODEIAM esta descoberta! Sem dieta, sem exercício, sem remédio! Apenas 1 cápsula natural por dia! ✨ RESULTADOS GARANTIDOS ou seu dinheiro de volta! ✨ Últimas 47 unidades com 70% de desconto! Delivery GRÁTIS para todo Brasil! Chama no WhatsApp (11) 99999-9999",
+      "title": "Método Japonês QUEIMA 15KG em 21 dias - PROIBIDO no Brasil!",
+      "source": "emagrecer-rapido-japao.com",
+      "author": "Dra. Kimiko Emagrecimento",
+      "timestamp": "2025-09-23T16:22:00Z",
+      "category": "emagrecimento"
+    },
+    {
+      "id": "weather_news_001",
+      "content": "O Instituto Nacional de Meteorologia (INMET) emitiu alerta laranja para chuvas intensas em São Paulo e região metropolitana para as próximas 48 horas. A previsão indica precipitação entre 50-100mm com rajadas de vento de até 80 km/h. A Defesa Civil recomenda evitar áreas de alagamento e permanecer em locais seguros durante tempestades. Este fenômeno está relacionado à passagem de uma frente fria vinda do sul do país.",
+      "title": "INMET emite alerta laranja para chuvas intensas em São Paulo",
+      "source": "tempo.com.br",
+      "author": "Meteorologista João Carlos",
+      "timestamp": "2025-09-23T08:45:00Z",
+      "url": "https://tempo.com.br/alerta-chuvas-sao-paulo",
+      "category": "clima"
+    },
+    {
+      "id": "investment_advice_001",
+      "content": "A diversificação de portfolio continua sendo fundamental para investidores de longo prazo. Recomenda-se alocar 60% em renda variável (ações), 30% em renda fixa (títulos do tesouro) e 10% em ativos alternativos (REITs, commodities). Para perfil conservador, sugerimos 40% renda variável e 60% renda fixa. Importante revisar alocação semestralmente e manter reserva de emergência equivalente a 6 meses de gastos.",
+      "title": "Estratégias de diversificação para portfolio de longo prazo",
+      "source": "valorinveste.globo.com",
+      "author": "Analista Maria Investidora",
+      "timestamp": "2025-09-20T11:30:00Z",
+      "url": "https://valorinveste.globo.com/diversificacao-portfolio-2025",
+      "category": "investimentos"
+    },
+    {
+      "id": "self_contradictory_001",
+      "content": "Como especialista em marketing digital há mais de 15 anos, posso afirmar com certeza absoluta que TODOS os gurus que você vê online são completamente fraudulentos. Nunca vi nenhuma estratégia funcionar de verdade. É impossível gerar resultados reais com marketing digital hoje em dia, mas ao mesmo tempo, algumas técnicas específicas podem sim trazer retorno significativo se aplicadas corretamente. Sempre funciona quando você nunca tenta.",
+      "title": "A verdade sobre gurus do marketing digital",
+      "source": "marketingblog.fake",
+      "author": "João Expert Contraditório",
+      "timestamp": "2025-09-18T11:30:00Z",
+      "url": "https://marketingblog.fake/verdade-gurus",
+      "category": "negócios"
+    },
+    {
+      "id": "food_recipe_001",
+      "content": "Receita de Brigadeiro Gourmet: Ingredients: 1 lata de leite condensado, 3 colheres de sopa de chocolate em pó, 1 colher de sopa de manteiga, granulado para enrolar. Modo de preparo: Em panela antiaderente, misture todos os ingredientes e cozinhe em fogo baixo mexendo sempre até desgrudar do fundo (aprox. 15 min). Deixe esfriar, faça bolinhas e passe no granulado. Rende 25 unidades. Dica: para versão diet, substitua leite condensado por versão zero açúcar.",
+      "title": "Receita: Brigadeiro Gourmet Tradicional",
+      "source": "tudogostoso.com.br",
+      "author": "Chef Docinhos",
+      "timestamp": "2025-09-19T15:20:00Z",
+      "url": "https://tudogostoso.com.br/receita-brigadeiro-gourmet",
+      "category": "culinária"
+    },
+    {
+      "id": "ufo_conspiracy_001",
+      "content": "🛸 URGENTE! ALIENS POUSARAM NO BRASIL! 🛸 Vídeo EXCLUSIVO filmado em Varginha/MG mostra nave extraterrestre! TODOS os militares brasileiros estão envolvidos na conspiração! Eles SEMPRE souberam da presença alien mas NUNCA contaram para o povo! É IMPOSSÍVEL que seja fake - olhem os detalhes! Compartilhem antes que apaguem! O governo ODEIA quando divulgamos a verdade!",
+      "title": "VÍDEO CHOCANTE: Aliens pousam em Varginha - GOVERNO ESCONDE!",
+      "source": "ovnis-brasil-verdade.net",
+      "author": "Investigador OVNI BR",
+      "timestamp": "2025-09-22T02:15:00Z",
+      "category": "conspiração"
+    },
+    {
+      "id": "travel_guide_001",
+      "content": "Roteiro de 7 dias em Portugal: Dia 1-3: Lisboa (Alfama, Belém, Sintra). Dia 4-5: Porto (Ribeira, vinícolas do Douro). Dia 6-7: Óbidos e Nazaré. Custo médio: €80/dia incluindo hospedagem, alimentação e transporte. Melhor época: abril-junho ou setembro-outubro (clima ameno, menos turistas). Dicas: compre Lisboa Card, experimente pastéis de nata originais em Belém, reserve vinícola com antecedência.",
+      "title": "Guia completo: 7 dias em Portugal gastando pouco",
+      "source": "melhordestino.com.br",
+      "author": "Viajante Econômico",
+      "timestamp": "2025-09-17T09:00:00Z",
+      "url": "https://melhordestino.com.br/portugal-7-dias",
+      "category": "turismo"
+    },
+    {
+      "id": "wellness_pyramid_001",
+      "content": "💎 OPORTUNIDADE ÚNICA! 💎 Seja um DISTRIBUIDOR INDEPENDENTE da nossa linha de produtos de bem-estar! Ganhe de R$ 5.000 a R$ 50.000 por mês trabalhando de casa! Sistema comprovado que já enriqueceu milhares de pessoas! Você ganha comissão das suas vendas E das vendas da sua equipe! Quanto mais pessoas você trouxer, mais você ganha! Kit inicial por apenas R$ 297 (valor promocional)! Vagas limitadas!",
+      "title": "GANHE ATÉ R$ 50.000/mês - Sistema de Vendas Revolucionário!",
+      "source": "oportunidade-dourada.biz",
+      "author": "Líder Diamante Ricardo",
+      "timestamp": "2025-09-21T20:30:00Z",
+      "category": "negócios"
+    },
+    {
+      "id": "book_review_001",
+      "content": "\"Sapiens\" de Yuval Noah Harari oferece uma perspectiva fascinante sobre a evolução da humanidade. O autor conecta antropologia, história e filosofia de forma acessível, explorando como desenvolvemos linguagem, agricultura e organizações complexas. Pontos fortes: narrativa envolvente, conceitos bem explicados. Pontos fracos: algumas generalizações excessivas, viés ocidental em certas análises. Recomendado para quem busca compreender nossa trajetória como espécie. Nota: 4/5.",
+      "title": "Resenha: 'Sapiens' - Uma breve história da humanidade",
+      "source": "literaturabr.com",
+      "author": "Crítico Literário Paulo",
+      "timestamp": "2025-09-16T14:45:00Z",
+      "url": "https://literaturabr.com/resenha-sapiens-harari",
+      "category": "literatura"
+    },
+    {
+      "id": "fashion_trend_001",
+      "content": "As tendências de moda outono/inverno 2025 apostam em cores terrosas, texturas naturais e peças oversized. Marrom, bege e verde musgo dominam as paletas. Materiais sustentáveis ganham destaque: linho, algodão orgânico e lã reciclada. Acessórios em destaque: bolsas estruturadas, sapatos chunky e joias minimalistas. A moda genderless continua crescendo, com peças unissex sendo mainstream. Sustentabilidade deixa de ser nicho para virar obrigatório.",
+      "title": "Tendências Moda Outono/Inverno 2025: Sustentabilidade em foco",
+      "source": "elle.com.br",
+      "author": "Editora de Moda Camila Style",
+      "timestamp": "2025-09-18T16:30:00Z",
+      "url": "https://elle.com.br/moda/tendencias-outono-inverno-2025",
+      "category": "moda"
+    },
+    {
+      "id": "gaming_review_001",
+      "content": "Baldur's Gate 3 redefine o que esperamos de RPGs modernos. Com 100+ horas de conteúdo, escolhas que realmente importam e sistema de combate baseado em D&D 5e, o jogo oferece rejogabilidade excepcional. Pontos altos: narrativa ramificada, personagens carismáticos, liberdade de escolha. Pontos baixos: alguns bugs menores, curva de aprendizado íngreme para iniciantes. Performance: estável em PC, versão PS5 otimizada. Nota: 9.5/10.",
+      "title": "Review: Baldur's Gate 3 - O novo padrão ouro dos RPGs",
+      "source": "ign.com.br",
+      "author": "Reviewer Gamer Elite",
+      "timestamp": "2025-09-15T19:20:00Z",
+      "url": "https://ign.com.br/baldurs-gate-3-review",
+      "category": "games"
+    },
+    {
+      "id": "environmental_news_001",
+      "content": "O desmatamento na Amazônia diminuiu 22% em agosto de 2025 comparado ao mesmo período do ano anterior, segundo dados do INPE. Foram registrados 1.503 km² de área desmatada, menor índice para agosto desde 2018. As ações de fiscalização intensificadas e políticas de preservação mostraram resultados positivos. Estados com maior redução: Pará (-35%), Amazonas (-28%) e Rondônia (-18%). Ambientalistas celebram mas pedem manutenção das políticas.",
+      "title": "Desmatamento na Amazônia cai 22% em agosto, diz INPE",
+      "source": "g1.globo.com",
+      "author": "Repórter Ambiental Carol Verde",
+      "timestamp": "2025-09-13T12:00:00Z",
+      "url": "https://g1.globo.com/natureza/amazonia/desmatamento-agosto-2025",
+      "category": "meio-ambiente"
+    },
+    {
+      "id": "ai_news_001",
+      "content": "O ChatGPT atingiu 200 milhões de usuários ativos semanais, dobrando sua base em apenas 8 meses. A OpenAI reportou crescimento exponencial no uso empresarial, com 92% das empresas Fortune 500 utilizando seus produtos. Novos recursos incluem browsing em tempo real, análise de imagens aprimorada e integração com ferramentas de produtividade. Concorrência intensifica com Google Bard e Claude da Anthropic disputando mercado corporate.",
+      "title": "ChatGPT alcança 200 milhões de usuários semanais ativos",
+      "source": "techcrunch.com.br",
+      "author": "Jornalista Tech Amanda AI",
+      "timestamp": "2025-09-14T07:30:00Z",
+      "url": "https://techcrunch.com.br/chatgpt-200-milhoes-usuarios",
+      "category": "tecnologia"
+    },
+    {
+      "id": "meditation_spam_001",
+      "content": "🧘‍♀️ DESPERTE SEUS PODERES PSÍQUICOS! 🧘‍♀️ Método tibetano SECRETO libera sua energia kundalini em 7 dias! Desenvolva telepatia, clarividência e poderes de manifestação! Mais de 100.000 pessoas já despertaram! Monges tibetanos ODEIAM que ensinemos isso gratuitamente! ⚡ ÚLTIMA CHANCE: Curso completo por apenas R$ 47 (valor normal R$ 497)! Acesso vitalício + BÔNUS EXCLUSIVOS! Garante já!",
+      "title": "DESPERTE Poderes Psíquicos - Método Tibetano SECRETO!",
+      "source": "poderes-psiquicos-tibete.org",
+      "author": "Mestre Espiritual Chakra",
+      "timestamp": "2025-09-23T11:11:00Z",
+      "category": "espiritualidade"
+    },
+    {
+      "id": "auto_review_001",
+      "content": "Novo Toyota Corolla Cross 2025 chega ao Brasil com preço inicial de R$ 139.990. O SUV compacto oferece motor 2.0 flex de 177 cv, câmbio CVT, tração dianteira e sistema híbrido opcional. Destaque para central multimídia de 10.5', Toyota Safety Sense 2.0 e amplo porta-malas (487 litros). Concorre diretamente com Nissan Kicks e Hyundai Creta. Pontos fortes: confiabilidade Toyota, economia de combustível. Ponto fraco: preço elevado.",
+      "title": "Teste: Toyota Corolla Cross 2025 - SUV compacto premium",
+      "source": "autoesporte.globo.com",
+      "author": "Teste Driver Carlos Auto",
+      "timestamp": "2025-09-20T10:15:00Z",
+      "url": "https://autoesporte.globo.com/carros/teste-toyota-corolla-cross-2025",
+      "category": "automóveis"
+    },
+    {
+      "id": "health_warning_001",
+      "content": "Ministério da Saúde alerta para surto de dengue em 15 estados brasileiros. Foram confirmados 890.000 casos até setembro, aumento de 78% comparado a 2023. Estados mais afetados: São Paulo (185k casos), Minas Gerais (142k), Rio de Janeiro (98k). Sintomas: febre alta, dor de cabeça, dores no corpo. Prevenção: eliminar água parada, usar repelente, roupas longas. Vacina disponível pelo SUS para grupos prioritários.",
+      "title": "Ministério da Saúde confirma surto de dengue em 15 estados",
+      "source": "saude.gov.br",
+      "author": "Assessoria de Comunicação MS",
+      "timestamp": "2025-09-22T15:45:00Z",
+      "url": "https://saude.gov.br/dengue-surto-setembro-2025",
+      "category": "saúde-pública"
+    },
+    {
+      "id": "real_estate_001",
+      "content": "Mercado imobiliário brasileiro mostra sinais de recuperação no 3º trimestre de 2025. Vendas de imóveis novos cresceram 12% comparado ao mesmo período de 2023. Financiamentos habitacionais aumentaram 18%, impulsionados por taxa Selic estável e programas governamentais. Regiões de maior crescimento: Sul (+22%), Nordeste (+15%). Preço do m² subiu 8% em 12 meses, ainda abaixo da inflação acumulada.",
+      "title": "Mercado imobiliário cresce 12% no 3º trimestre de 2025",
+      "source": "valoreconomico.com.br",
+      "author": "Analista Imobiliário Roberto Casa",
+      "timestamp": "2025-09-21T14:20:00Z",
+      "url": "https://valoreconomico.com.br/imoveis/crescimento-mercado-3tri-2025",
+      "category": "imóveis"
+    },
+    {
+      "id": "contradictory_health_001",
+      "content": "Segundo especialistas renomados, beber café faz extremamente mal à saúde e causa ansiedade, insônia e problemas cardíacos. NUNCA deveria ser consumido por ninguém. Porém, ao mesmo tempo, estudos recentes mostram que o café traz benefícios antioxidantes e melhora o foco mental. SEMPRE que consumo café me sinto melhor, mas também pior simultaneamente. É impossível que faça bem, mas é comprovado cientificamente que faz bem.",
+      "title": "Café: O veneno que faz bem ou o remédio que faz mal?",
+      "source": "saude-confusa.info",
+      "author": "Dr. Contraditório Silva",
+      "timestamp": "2025-09-19T13:33:00Z",
+      "category": "saúde-alternativa"
+    }
+  ],
+  "context": {
+    "topic": "verificacao_conteudo_online_completa",
+    "analysis_type": "completa_avancada",
+    "source_verification": true,
+    "temporal_analysis": true,
+    "bias_detection": true,
+    "sentiment_analysis": true,
+    "llm_reasoning": true,
+    "contextual_analysis": true,
+    "batch_processing_enabled": true,
+    "parallel_analysis": true,
+    "deep_content_inspection": true,
+    "multi_layer_verification": true,
+    "advanced_pattern_detection": true,
+    "cross_reference_validation": true,
+    "confidence_calibration": true,
+    "custom_settings": {
+      "strict_mode": false,
+      "llm_threshold": 0.6,
+      "bias_threshold": 0.7,
+      "approval_threshold": 0.75,
+      "rejection_threshold": 0.35,
+      "conspiracy_detection_threshold": 0.8,
+      "spam_detection_threshold": 0.85,
+      "contradiction_detection_enabled": true,
+      "emotional_manipulation_detection": true,
+      "pyramid_scheme_detection": true,
+      "medical_misinformation_detection": true,
+      "financial_scam_detection": true,
+      "enable_screenshot_capture": true,
+      "detailed_reasoning": true,
+      "save_processing_metadata": true,
+      "generate_confidence_heatmaps": true
+    },
+    "batch_processing": {
+      "max_concurrent": 5,
+      "delay_between_items": 800,
+      "retry_attempts": 3,
+      "timeout_per_item": 120,
+      "error_tolerance": 0.1,
+      "progress_reporting": true
+    },
+    "output_preferences": {
+      "include_full_analysis": true,
+      "include_confidence_breakdown": true,
+      "include_recommendations": true,
+      "include_risk_assessment": true,
+      "include_pattern_analysis": true,
+      "include_comparative_analysis": true,
+      "save_detailed_logs": true,
+      "generate_summary_report": true,
+      "export_approved_items": true,
+      "export_rejected_items": true,
+      "create_analysis_dashboard": true
+    },
+    "quality_filters": {
+      "minimum_content_length": 50,
+      "maximum_content_length": 10000,
+      "require_source_information": true,
+      "exclude_duplicate_content": true,
+      "filter_empty_titles": true,
+      "validate_timestamp_format": true,
+      "check_url_validity": false,
+      "content_language_detection": true
+    },
+    "specialized_detectors": {
+      "conspiracy_theory_detector": {
+        "enabled": true,
+        "keywords": ["governo mundial", "controle", "eles escondem", "verdade oculta", "mídia mainstream"],
+        "weight": 1.2
+      },
+      "medical_misinformation_detector": {
+        "enabled": true,
+        "patterns": ["cura milagrosa", "médicos odeiam", "ingrediente secreto", "indústria farmacêutica esconde"],
+        "weight": 1.5
+      },
+      "financial_scam_detector": {
+        "enabled": true,
+        "indicators": ["ganhe milhões", "método secreto", "últimas vagas", "sem esforço", "garantido"],
+        "weight": 1.3
+      },
+      "pyramid_scheme_detector": {
+        "enabled": true,
+        "patterns": ["distribuidora independente", "ganhe da sua equipe", "níveis de comissão"],
+        "weight": 1.4
+      },
+      "emotional_manipulation_detector": {
+        "enabled": true,
+        "techniques": ["urgência artificial", "escassez falsa", "autoridade questionável", "prova social fabricada"],
+        "weight": 1.1
+      }
+    },
+    "llm_configuration": {
+      "provider_preference": ["gemini", "openai", "groq"],
+      "fallback_enabled": true,
+      "custom_prompts": {
+        "conspiracy_analysis": "Analise este conteúdo especificamente para teorias conspiratórias e desinformação",
+        "medical_content": "Avalie a precisão médica e científica deste conteúdo",
+        "financial_advice": "Examine se este conteúdo contém promessas irreais ou esquemas duvidosos"
+      },
+      "context_enhancement": true,
+      "multi_perspective_analysis": true
+    },
+    "reporting_configuration": {
+      "generate_executive_summary": true,
+      "include_trend_analysis": true,
+      "create_risk_heatmap": true,
+      "generate_category_breakdown": true,
+      "include_performance_metrics": true,
+      "create_recommendation_matrix": true,
+      "export_formats": ["json", "csv", "html", "pdf"],
+      "dashboard_enabled": true
+    },
+    "monitoring_and_alerts": {
+      "high_risk_content_alerts": true,
+      "processing_anomaly_detection": true,
+      "confidence_drift_monitoring": true,
+      "performance_degradation_alerts": true,
+      "unusual_pattern_detection": true
+    },
+    "data_enrichment": {
+      "source_reputation_lookup": true,
+      "author_credibility_check": true,
+      "content_freshness_analysis": true,
+      "engagement_pattern_analysis": true,
+      "cross_platform_verification": false,
+      "fact_checking_integration": false
+    }
+  }
+}

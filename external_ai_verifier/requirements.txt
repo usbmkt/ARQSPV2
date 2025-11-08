@@ -1,0 +1,24 @@
+# External AI Verifier Module Requirements
+# ARQV30 Enhanced v3.0 - Independent AI Verification Module
+
+# Core Dependencies
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+typing-extensions>=4.8.0
+
+# AI & NLP
+openai>=1.30.0
+google-generativeai>=0.3.0
+textblob>=0.17.1
+nltk>=3.8.1
+spacy>=3.6.0
+vaderSentiment>=3.3.2
+
+# Data Processing
+pandas>=2.0.0
+numpy>=2.3.2
+scikit-learn>=1.3.0
+
+# Utilities
+requests>=2.31.0
+tqdm>=4.65.0

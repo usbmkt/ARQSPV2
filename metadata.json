@@ -1,0 +1,5 @@
+{
+  "name": "Corinthians Match Predictor",
+  "description": "An advanced sports analysis app that leverages AI-driven insights, detailed statistics, and tactical analysis to predict the outcomes of Corinthians' football matches. Based on the WebSailor V2 agent concept.",
+  "requestFramePermissions": []
+}

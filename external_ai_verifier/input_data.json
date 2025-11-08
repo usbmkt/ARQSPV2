@@ -1,0 +1,20 @@
+{ 
+  "items": [ 
+    { 
+      "id": "exemplo1", 
+      "content": "Este é um exemplo de conteúdo para análise de IA. O texto deve ser claro e objetivo.", 
+      "title": "Título de Exemplo", 
+      "source": "fonte_exemplo.com" 
+    }, 
+    { 
+      "id": "exemplo2", 
+      "content": "Especialistas afirmam que este texto contém padrões suspeitos de desinformação que sempre enganam todos.", 
+      "title": "Título Suspeito", 
+      "source": "fonte_duvidosa.com" 
+    } 
+  ], 
+  "context": { 
+    "topic": "exemplo", 
+    "source_analysis": true 
+  } 
+} 
