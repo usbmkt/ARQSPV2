@@ -1,0 +1,6 @@
+flask
+requests
+beautifulsoup4
+aiohttp
+python-dotenv
+flask-cors

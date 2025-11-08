@@ -1,6 +1,6 @@
 
 import React, { useState, useCallback, useEffect } from 'react';
-import { getMatchPrediction } from './services/geminiService';
+import { getMatchPrediction } from './services/apiService';
 import { MatchAnalysis, Player } from './types';
 import AnalysisCard from './components/AnalysisCard';
 import { ShieldIcon, BarChartIcon, UsersIcon, TacticIcon, AlertTriangleIcon, CheckCircleIcon, InfoIcon } from './components/icons';
