@@ -7,6 +7,14 @@ from corinthians_prediction_agent import corinthians_agent
 app = Flask(__name__)
 CORS(app)
 
+@app.route('/', methods=['GET'])
+def index():
+    return """
+    <h1>Backend API is Running</h1>
+    <p>This is the backend server for the Corinthians Prediction App.</p>
+    <p>Please open the frontend application to use the tool.</p>
+    """
+
 @app.route('/predict', methods=['POST'])
 def predict():
     data = request.get_json()
